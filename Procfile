@@ -1,1 +1,1 @@
-heroku ps:scale worker=1
+index: node index.js
